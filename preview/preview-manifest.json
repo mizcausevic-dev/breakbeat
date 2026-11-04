@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/breakbeat-simple-synth-preview.mp3",
+  "preview_sha256": "9eda0106beedd1d1c700dc146e14d371ccd81224900d6e81ab98b884d05b086c",
+  "source_midi_path": "midi/br01-cut-frame/br01-cut-frame-combined.mid",
+  "source_midi_sha256": "b18dceed1a4cde3c1bbb896b14b65098220be122c8f92fcd0e4f380fdec26dd0",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "per-voice envelopes only, followed by MP3 encoding"
+  },
+  "selection": {
+    "study": "br01",
+    "start_seconds": 0,
+    "end_seconds": 56.471
+  },
+  "measurement": {
+    "sample_peak": 0.114439,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

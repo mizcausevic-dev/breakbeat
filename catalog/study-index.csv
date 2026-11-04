@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+br01,Cut Frame,pack-local equal-tempered pitch collection,C,136,4/4,480,32,61440,midi/br01-cut-frame/br01-cut-frame-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+br02,Second Break,pack-local equal-tempered pitch collection,D#,136,4/4,480,32,61440,midi/br02-second-break/br02-second-break-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+br03,Offset Run,pack-local equal-tempered pitch collection,F#,136,4/4,480,32,61440,midi/br03-offset-run/br03-offset-run-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+br04,Final Slice,pack-local equal-tempered pitch collection,C#,136,4/4,480,32,61440,midi/br04-final-slice/br04-final-slice-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
