@@ -1,0 +1,26 @@
+{
+  "title": "Breakbeat",
+  "study": "br01",
+  "bpm": 136,
+  "source_audio": "preview/breakbeat-simple-synth-preview.mp3",
+  "source_audio_sha256": "9eda0106beedd1d1c700dc146e14d371ccd81224900d6e81ab98b884d05b086c",
+  "source_midi": "midi/br01-cut-frame/br01-cut-frame-combined.mid",
+  "source_midi_sha256": "b18dceed1a4cde3c1bbb896b14b65098220be122c8f92fcd0e4f380fdec26dd0",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "9ad845257d90ea64abb0a3e44e675a5f2617186465029ad0e8c504287ee413c4",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "fabd5a88f30dedc363a15fddc73483baf47ca8a62ead4790519017498b709e36",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "76c4718f9de6c45a1a819fff8c1be89ddea17eea71397befd3cb45aedb28bade",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

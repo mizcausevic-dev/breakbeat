@@ -7,6 +7,11 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 780,
+      "sha256": "d787e7bf0a304970d7f022928b1588b9b5c565fa9fb95d73fbd8141ce2e33dcb"
+    },
+    {
       "path": "README.md",
       "bytes": 3133,
       "sha256": "ef6e83b3983a9313eafd6de94399001ed0b1653055b0a428629ab15f6adf0d04"
@@ -87,9 +92,39 @@
       "sha256": "f13ae2700eb569afb238b994919f5d560514e2bdf7073ee198d7d3d23ac33b47"
     },
     {
+      "path": "film/motion-artwork.webp",
+      "bytes": 135150,
+      "sha256": "fabd5a88f30dedc363a15fddc73483baf47ca8a62ead4790519017498b709e36"
+    },
+    {
+      "path": "film/motion-manifest.json",
+      "bytes": 1177,
+      "sha256": "09eb5be39fcab7f66e042781df6786b031358543606b9d9b81f6a109d3e17c70"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2943,
+      "sha256": "caf2af9bb4de85043a246f56c83e04bdc850ce88092bc5dd1b53fe5e45e7b999"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 30348,
+      "sha256": "53c1be7e31ed080f10b5853e2b8e23c1e7e83f5811ef8df63ac7739278561a6b"
+    },
+    {
+      "path": "film/motion-preview.mp4",
+      "bytes": 1271442,
+      "sha256": "76c4718f9de6c45a1a819fff8c1be89ddea17eea71397befd3cb45aedb28bade"
+    },
+    {
+      "path": "film/motion-preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
       "path": "index.html",
-      "bytes": 8728,
-      "sha256": "7408543516db29959380211108dbc4419063ad3e30bd8cf2570b3b90c438bbae"
+      "bytes": 9246,
+      "sha256": "cf6a89b19048a677016690365bbc5652c019d8a3d417c6e5441d21158cc56066"
     },
     {
       "path": "midi/br01-cut-frame/br01-cut-frame-combined.mid",
@@ -260,6 +295,11 @@
       "path": "tools/build_release.py",
       "bytes": 55043,
       "sha256": "bf66b15904a8ffe6d9106669edd6670cc41fa3640db30691cf431832fe1f8772"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
     },
     {
       "path": "tools/validate_release.py",
